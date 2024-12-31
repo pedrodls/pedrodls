@@ -1,29 +1,28 @@
-# Olá, eu sou o Pedro! 👋
+# Hello, I'm Pedro! 👋
 
-Bem-vindo ao meu perfil GitHub!
+Welcome to my GitHub profile!
 
-## Sobre Mim
-Sou um desenvolvedor backend apaixonado por resolver problemas complexos e construir soluções eficientes.
+## About Me
+I'm a backend developer passionate about solving complex problems and building efficient solutions.
 
-- 🌱 Atualmente estou estudando **Arquitetura Hexagonal** e **DDD**.
-- 🎯 Objetivo: Entrar na **Google** em 4 anos e construir aplicações que ajudem as pessoas.
-- ⚡ Curiosidades: Tenho interesse em **Neurociência** e **Teologia**.
+- 🌱 Currently studying **Hexagonal Architecture** and **DDD**.
+- 🎯 Goal: Join **Google** in 4 years and build applications that help people.
+- ⚡ Fun Facts: I'm interested in **Neuroscience** and **Theology**.
 
-## Minhas Conquistas
+## My Achievements
 
-- 🔢 Total de commits: **[contagem automática, ver abaixo]**
-- 🚀 Contribuições em **[linguagens principais: C, TypeScript, etc.]**
-- 🛠️ Tecnologias: **Node.js**, **TypeScript**, **Fastify**, **Sequelize**, **React**, etc.
+- 🔢 Total commits: **[automatic count, see below]**
+- 🚀 Contributions in **[main languages: C, TypeScript, etc.]**
+- 🛠️ Technologies: **Node.js**, **TypeScript**, **Fastify**, **Sequelize**, **React**, etc.
 
-## Status do GitHub
+## GitHub Status
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrodls&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrodls&show_icons=true&theme=radical)
 
-## Minhas Linguagens
+## My Languages
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodls&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodls&layout=compact&theme=radical)
 
-## Minhas Contribuições
+## My Contributions
 
 ![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrodls&theme=dark)
-
